@@ -1,0 +1,5 @@
+Típus: Adidas Kapacitás: 900.0 Foglalt terület: 900.0 Szabadhely: 0.0
+Típus: ASD Kapacitás: 700.0 Foglalt terület: 650.0 Szabadhely: 50.0
+Típus: Nike Kapacitás: 800.0 Foglalt terület: 700.0 Szabadhely: 100.0
+Típus: Oldalas Kapacitás: 800.0 Foglalt terület: 320.0 Szabadhely: 480.0
+Típus: KUR Kapacitás: 600.0 Foglalt terület: 10.0 Szabadhely: 590.0
