@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c420cfec-5c02-4d06-b665-ec792eaee5a2" name="Changes" comment="" />
+    <list default="true" id="c420cfec-5c02-4d06-b665-ec792eaee5a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/galaxis/Egitest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/galaxis/Egitest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +43,7 @@
       <updated>1773738060765</updated>
       <workItem from="1773738062238" duration="44000" />
       <workItem from="1773738136684" duration="144000" />
+      <workItem from="1773738346801" duration="58000" />
     </task>
     <servers />
   </component>
