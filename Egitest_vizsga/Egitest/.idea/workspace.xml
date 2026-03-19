@@ -7,7 +7,6 @@
     <list default="true" id="c420cfec-5c02-4d06-b665-ec792eaee5a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/galaxis/Bolygo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/galaxis/Bolygo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/galaxis/Egitest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/galaxis/Egitest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/urban/Desktop/JAVA/Vizsgak_gyakorlas/Egitest_vizsga/Egitest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +54,8 @@
       <workItem from="1773738136684" duration="144000" />
       <workItem from="1773738346801" duration="58000" />
       <workItem from="1773749317940" duration="710000" />
+      <workItem from="1773831886135" duration="222000" />
+      <workItem from="1773914935988" duration="41000" />
     </task>
     <servers />
   </component>
