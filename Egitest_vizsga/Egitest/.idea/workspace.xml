@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c420cfec-5c02-4d06-b665-ec792eaee5a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/galaxis/Bolygo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/galaxis/Bolygo.java" afterDir="false" />
-    </list>
+    <list default="true" id="c420cfec-5c02-4d06-b665-ec792eaee5a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +31,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/urban/Desktop/JAVA/Vizsgak_gyakorlas/Egitest_vizsga/Egitest",
+    "last_opened_file_path": "C:/Users/urban/Desktop/JAVA/6.hét/het6_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +53,7 @@
       <workItem from="1773749317940" duration="710000" />
       <workItem from="1773831886135" duration="222000" />
       <workItem from="1773914935988" duration="41000" />
+      <workItem from="1774369583088" duration="21000" />
     </task>
     <servers />
   </component>
