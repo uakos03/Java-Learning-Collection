@@ -10,7 +10,7 @@ public class Bolygo extends Egitest {
         this.keringesIdo = keringesIdo;
         this.atmero = atmero;
     }
-//dezkelll!!
+//dezkelll!! /iiigy
 
 
     public float getKeringesIdo() {
@@ -23,5 +23,8 @@ public class Bolygo extends Egitest {
         return "Bolygo neve: " + getNev() + " Keringesi ideje: " + getKeringesIdo() + " Atmeroje: " + getAtmero();
     }
 }
+
+
+
 
 
