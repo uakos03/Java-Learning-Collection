@@ -12,7 +12,7 @@ public class Bolygo extends Egitest {
     }
 //dezkelll!!
 
-    
+
     public float getKeringesIdo() {
         return keringesIdo;
     }

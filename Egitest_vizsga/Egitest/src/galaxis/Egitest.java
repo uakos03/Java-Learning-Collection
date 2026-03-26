@@ -9,4 +9,6 @@ public abstract class Egitest {
     public String getNev() {
         return nev;
     }
+
+    public abstract void method();
 }
