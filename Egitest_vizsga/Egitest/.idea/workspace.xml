@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c420cfec-5c02-4d06-b665-ec792eaee5a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/galaxis/Bolygo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/galaxis/Bolygo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/galaxis/Egitest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/galaxis/Egitest.java" afterDir="false" />
-    </list>
+    <list default="true" id="c420cfec-5c02-4d06-b665-ec792eaee5a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +55,7 @@
       <workItem from="1773914935988" duration="41000" />
       <workItem from="1774369583088" duration="21000" />
       <workItem from="1774534278297" duration="164000" />
+      <workItem from="1774534751061" duration="639000" />
     </task>
     <servers />
   </component>
