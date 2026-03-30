@@ -10,5 +10,5 @@ public abstract class Egitest {
         return nev;
     }
 
-    public abstract void method();
+    public abstract float tomegAtvaltas(int tomeg);
 }
