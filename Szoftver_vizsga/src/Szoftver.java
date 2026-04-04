@@ -5,6 +5,9 @@ public class Szoftver {
     private int ar;
     private String[] tamogatottOS;
     private LocalDate date;
+    public enum Tipus {
+        IRODAI, JATEK, MEDIA
+    }
 
 
 
