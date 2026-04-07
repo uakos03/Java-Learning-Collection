@@ -7,7 +7,7 @@ public class Szoftver {
     private int ar;
     private String[] tamogatottOS;
     private LocalDate date;
-
+    private int legjobb; //torolni
 
     private Tipus tipus;
 
@@ -81,5 +81,5 @@ public class Szoftver {
                 ", tipus=" + tipus +
                 '}';
     }
-    
+
 }
