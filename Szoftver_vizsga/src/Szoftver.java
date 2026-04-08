@@ -7,7 +7,11 @@ public class Szoftver {
     private int ar;
     private String[] tamogatottOS;
     private LocalDate date;
-    private int legjobb; //torolni
+
+
+
+    //torolt
+    
 
     private Tipus tipus;
 
