@@ -11,7 +11,7 @@ public class Szoftver {
 
 
     //torolt
-    
+
 
     private Tipus tipus;
 
