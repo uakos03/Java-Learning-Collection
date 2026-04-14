@@ -3,6 +3,9 @@ public class JatekSzoftver extends Szoftver {
     //adattagok
     private int mer;
 
+    //edd
+
+
     
 
     
