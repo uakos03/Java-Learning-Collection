@@ -8,6 +8,8 @@ public class JatekSzoftver extends Szoftver {
 
     int asd;
 
+    String jo;
+
     
 
 
