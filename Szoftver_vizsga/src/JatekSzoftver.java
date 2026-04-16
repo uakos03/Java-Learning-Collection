@@ -6,6 +6,8 @@ public class JatekSzoftver extends Szoftver {
     //edd
     String szoveg;
 
+    int asd;
+
     
 
 
