@@ -10,7 +10,11 @@ public class JatekSzoftver extends Szoftver {
 
     String jo;
 
+    int k;
+
     
+
+
 
 
     
