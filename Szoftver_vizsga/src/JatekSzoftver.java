@@ -14,6 +14,8 @@ public class JatekSzoftver extends Szoftver {
 
     int mrr;
 
+    String kdk;
+
     
 
 
