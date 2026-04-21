@@ -18,6 +18,9 @@ public class JatekSzoftver extends Szoftver {
 
     int em;
 
+    double fizetess;
+
+
     
 
 
