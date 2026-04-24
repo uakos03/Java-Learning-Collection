@@ -4,6 +4,10 @@ public class JatekSzoftver extends Szoftver {
     private String name;
     int number;
 
+    double price;
+
+
+
     
 
     
