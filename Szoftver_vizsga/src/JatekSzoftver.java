@@ -8,7 +8,9 @@ public class JatekSzoftver extends Szoftver {
 
 
 
-    
+    String szoveg
+
+            
 
     
 
