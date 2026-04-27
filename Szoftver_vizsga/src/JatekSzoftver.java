@@ -8,6 +8,8 @@ public class JatekSzoftver extends Szoftver {
     String brand;
 
 
+    String surname;
+
     
 
 
