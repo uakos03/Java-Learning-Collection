@@ -4,6 +4,9 @@ public class JatekSzoftver extends Szoftver {
     private int ar;
 
 
+    private String name;
+
+
     
 
 
