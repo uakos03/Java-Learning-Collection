@@ -1,32 +1,16 @@
+import java.time.LocalDate;
+
 public class JatekSzoftver extends Szoftver {
     private int korhatar;
-    //adat torolve
-    private int ar;
 
 
-    private String name;
+    public JatekSzoftver(String nev, int ar, Tipus tipus, String[] tamogatottOS, LocalDate date, int korhatar) {
+        super(nev, ar, tipus, tamogatottOS, date);
+        this.korhatar = korhatar;
+    }
 
-
-    
-
-
-
-
-
-
-
-    
-
-    
-
-
-
-
-
-
-
-
-    
-
-    
+    public JatekSzoftver(String nev, String[] tamogatottOS, int korhatar) {
+        super(nev, tamogatottOS);
+        this.korhatar = korhatar;
+    }
 }
