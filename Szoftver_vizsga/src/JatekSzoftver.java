@@ -2,6 +2,8 @@ import java.time.LocalDate;
 
 public class JatekSzoftver extends Szoftver {
     private int korhatar;
+    private String name;
+
 
 
     public JatekSzoftver(String nev, int ar, Tipus tipus, String[] tamogatottOS, LocalDate date, int korhatar) {
