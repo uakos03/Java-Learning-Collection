@@ -3,6 +3,9 @@ import java.time.LocalDate;
 public class JatekSzoftver extends Szoftver {
     private int korhatar;
     private String name;
+    private int id;
+
+    
 
 
 
