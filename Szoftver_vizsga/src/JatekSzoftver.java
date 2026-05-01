@@ -5,6 +5,8 @@ public class JatekSzoftver extends Szoftver {
     private String name;
     private int id;
 
+    private double balance;
+
     
 
 
