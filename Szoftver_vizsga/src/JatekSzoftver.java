@@ -3,12 +3,10 @@ import java.time.LocalDate;
 public class JatekSzoftver extends Szoftver {
     private int korhatar;
 
+    private String surname;
 
-    private String name;
 
-
-    //++
-    private int age;
+    //d
 
     
 
