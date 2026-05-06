@@ -4,9 +4,9 @@ public class JatekSzoftver extends Szoftver {
     private int korhatar;
 
     private String surname;
+    private int age;
 
 
-    //d
 
     
 
