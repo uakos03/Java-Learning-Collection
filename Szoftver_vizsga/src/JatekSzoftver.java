@@ -3,15 +3,7 @@ import java.time.LocalDate;
 public class JatekSzoftver extends Szoftver {
     private int korhatar;
 
-    private int id;
-
-    
-    private String surname;
-    private int age;
-
-
-
-    
+    private String felhasznalo;
 
 
 
@@ -25,3 +17,5 @@ public class JatekSzoftver extends Szoftver {
         this.korhatar = korhatar;
     }
 }
+
+
