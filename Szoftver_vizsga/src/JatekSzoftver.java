@@ -2,8 +2,9 @@ import java.time.LocalDate;
 
 public class JatekSzoftver extends Szoftver {
     private int korhatar;
+    private double salary;
 
-    private String felhasznalo;
+    
 
 
 
