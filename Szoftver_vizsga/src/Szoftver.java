@@ -7,18 +7,11 @@ public class Szoftver {
     private int ar;
     private String[] tamogatottOS;
     private LocalDate date;
-
-
-
-    //torolt
-
-
     private Tipus tipus;
 
     public enum Tipus {
         IRODAI, JATEK, MEDIA
     }
-
 
     public Szoftver(String nev, int ar, Tipus tipus, String[] tamogatottOS, LocalDate date) {
         this.nev = nev;
@@ -27,7 +20,6 @@ public class Szoftver {
         this.tamogatottOS = tamogatottOS;
         this.date = date;
     }
-
 
     public Szoftver(String nev, String[] tamogatottOS) {
         this(
@@ -85,5 +77,4 @@ public class Szoftver {
                 ", tipus=" + tipus +
                 '}';
     }
-
 }
