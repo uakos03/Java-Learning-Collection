@@ -43,7 +43,7 @@ public class OkosMobil extends Mobil {
     }
     @Override
     public String toString() {
-        return super.toString() + "OS: " + getOS() + "Memória: " + getMemoria() + "Magok száma: " + getMagokSzama();
+        return super.toString() + " OS: " + getOS() + " Memória: " + getMemoria() + " Magok száma: " + getMagokSzama();
     }
 
     public static OkosMobil nagyobbarertekAranyu(OkosMobil m1, OkosMobil m2) {

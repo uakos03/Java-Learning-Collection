@@ -28,6 +28,6 @@ public abstract class Mobil {
 
     @Override
     public String toString() {
-        return "Típus: " + getTipus() + "Ára: " + getAr();
+        return "Típus: " + getTipus() + " Ára: " + getAr();
     }
 }
