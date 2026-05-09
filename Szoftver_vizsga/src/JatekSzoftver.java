@@ -3,12 +3,12 @@ import java.time.LocalDate;
 public class JatekSzoftver extends Szoftver {
     private int korhatar;
 
-    public JatekSzoftver(String nev, int ar, Tipus tipus, String[] tamogatottOS, LocalDate date, int korhatar) {
+    public JatekSzoftver(String nev, int ar, String[] tamogatottOS, int korhatar) {
         super(nev,
                 ar,
-                Tipus.JATEK,
+                Tipus.JATEK, // Ezt fixen bedrótoztad, így nem kell paraméterként kérni
                 tamogatottOS,
-                LocalDate.now().withYear(LocalDate.now().getYear() -1 ));
+                LocalDate.now().withYear(LocalDate.now().getYear() - 1)); // Ezt is kiszámolja, nem kell bekérni
         this.korhatar = korhatar;
     }
 

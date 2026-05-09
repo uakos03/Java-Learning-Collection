@@ -67,14 +67,8 @@ public class Szoftver {
         this.tipus = tipus;
     }
 
-    public static void osszehasonlit (Szoftver sz1, Szoftver sz2) {
-        if (sz1.getAr() > sz2.getAr()) {
-            System.out.println(sz1.getNev() + "a drágább!");
-        } else if (sz1.getAr() < sz2.getAr()) {
-            System.out.println(sz2.getNev() + "a drágább!");
-        } else {
-            System.out.println(sz1.getNev() + sz2.getNev() + "a kettő ára megegyezik!");
-        }
+    public static int osszehasonlit(Szoftver sz1, Szoftver sz2) {
+        return Integer.compare(sz1.getAr(), sz2.getAr());
     }
 
     @Override
