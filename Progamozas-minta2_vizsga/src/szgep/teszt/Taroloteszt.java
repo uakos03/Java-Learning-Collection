@@ -7,6 +7,7 @@ public class Taroloteszt {
     public static void main(String[] args) {
             Merevlemez[] m1 = new Merevlemez[5];
             ellenorzottBeolvasas(m1);
+            kiIratas(m1);
             legnagyobbKapacitas(m1);
             int szamlalo = szamlalOssz(m1);
             System.out.println(szamlalo);
